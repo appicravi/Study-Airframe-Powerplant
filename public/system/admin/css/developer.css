@@ -1,0 +1,33 @@
+.error {
+    color: red;
+    font-size: 13px;
+}
+.greenzone {
+    color: #00ad5f;
+}
+.redzone {
+    color: #ff4b5a;
+}
+.wep label {
+    width: 99px;
+}
+.suparMaxUnit tbody tr td {
+    padding: 4px 45px !important;
+}
+.item.optionM {
+    border-radius: 18px;
+    margin-right: 7px;
+    width: auto;
+    padding-top: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #808080;
+    font-size: 12px;
+}
+.shortti {
+    font-size: 15px;
+    font-weight: 500;
+    background: #e5e5e5;
+    padding: 7px 32px;
+    margin-left: 15px;
+}
